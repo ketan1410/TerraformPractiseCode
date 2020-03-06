@@ -1,0 +1,14 @@
+PROJECT_NAME    =   "demo"
+
+AWS_ACCESS_KEY  =   ""
+AWS_SECRET_KEY  =   ""
+
+RDS_ENGINE  = "mysql"
+RDS_CIDR    = "0.0.0.0/0"
+DB_INSTANCE_CLASS   = "db.t2.micro"
+ENGINE_VERSION  = "5.7.17"
+BACKUP_RETENTION_PERIOD = "7"
+PUBLICLY_ACCESSIBLE = "true"
+RDS_USERNAME    = "test"
+RDS_PASSWORD    = "test123#$"
+RDS_ALLOCATED_STORAGE   = "20"

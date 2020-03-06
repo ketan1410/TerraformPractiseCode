@@ -1,0 +1,12 @@
+/home/ketan/TerraformTraining/TerraformCode/Provisioners5/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/ansible-terraform/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/GithubSource/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/Webapp/FullStack/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/Webapp/RDS/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/Webapp/VPC/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/Auroracluster/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/AWS-ELK/exec/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/KubernetesCluster/Master/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/Provisioners/terraform.tfstate
+/home/ketan/TerraformTraining/TerraformCode/output/terraform.tfstate
